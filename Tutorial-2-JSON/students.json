@@ -1,0 +1,23 @@
+[
+    {
+        "first_name": "Yael",
+        "last_name": "Wroblevsky",
+        "email": "Yael.Wroblevsky@e.braude.ac.il",
+        "courses": [
+            "Cloud",
+            "Web"
+        ],
+        "link": "https://www.google.com/?hl=iw",
+        "favorite_show": "friends"
+    },
+    {
+        "first_name": "Shiraz",
+        "last_name": "Shamai",
+        "email": "Shiraz.Shamai@e.braude.ac.il",
+        "courses": [
+            "Cloud",
+            "Web"
+        ],
+        "link": "https://w3.braude.ac.il/"
+    }
+]
